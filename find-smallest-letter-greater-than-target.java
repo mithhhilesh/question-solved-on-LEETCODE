@@ -1,6 +1,6 @@
 // -------------------
 // Problem: 744. Find Smallest Letter Greater Than Target
-// Topic: Array
+// Topic: Array, Binary Search
 // Link: https://leetcode.com/problems/find-smallest-letter-greater-than-target
 // Time complexity: 
 // -------------------
